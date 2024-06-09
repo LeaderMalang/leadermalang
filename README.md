@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/leadermalang" target="blank"><img src="https://img.shields.io/twitter/follow/leadermalang?logo=twitter&style=for-the-badge" alt="leadermalang" /></a> </p>
 
-- 🔭 I’m currently working on [BridEye Bot](https://github.com/LeaderMalang/bridEye-bot)
+- 🔭 I’m currently working on [quranotarbiyah.com](https://github.com/LeaderMalang/qot)
 
 - 🌱 I’m currently learning **langchain and tensorflow**
 
