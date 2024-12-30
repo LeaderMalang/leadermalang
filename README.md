@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan</h3>
+<h3 align="center">A passionate Blockchain Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leadermalang&label=Profile%20views&color=0e75b6&style=flat" alt="leadermalang" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/leadermalang/](https://www.linkedin.com/in/leadermalang/)
 
-- 💬 Ask me about **Django,Flask,celery,Scrapy,Selenium,Mysql,MSSQL,PSQL,azure and aws**
+- 💬 Ask me about **Hardhat,Anchor 0.29.0,Django,Flask,celery,Scrapy,Selenium,Mysql,MSSQL,PSQL,azure and aws**
 
 - 📫 How to reach me **hassanali5120@gmail.com**
 
