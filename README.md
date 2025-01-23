@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **langchain and tensorflow**
 
-- 👯 I’m looking to collaborate on [DressHive (Rental Ecommerce)](https://github.com/razis928/DressHive)
+- 👯 I’m looking to collaborate on [Personality ChatBot Using LLaMA model](https://github.com/LeaderMalang/personality-chatbot-gardio)
 
 - 🤝 I’m looking for help with [Read Academic (OCR App that reads academic documents of Pakistan)](https://github.com/LeaderMalang/read-academic)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/leadermalang/](https://www.linkedin.com/in/leadermalang/)
 
-- 💬 Ask me about **Hardhat,Anchor 0.29.0,Django,Flask,celery,Scrapy,Selenium,Mysql,MSSQL,PSQL,azure and aws**
+- 💬 Ask me about **Hardhat,Anchor 0.30.1,Solidity,Solana,Ethereum,Django,Flask,celery,Scrapy,Selenium,Mysql,MSSQL,PSQL,azure and aws**
 
 - 📫 How to reach me **hassanali5120@gmail.com**
 
@@ -40,7 +40,7 @@
 <a href="https://kaggle.com/leadermalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="leadermalang" height="30" width="40" /></a>
 <a href="https://fb.com/leadermalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leadermalang" height="30" width="40" /></a>
 <a href="https://instagram.com/leadermalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leadermalang" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hassan ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hassan ali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@leadermalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hassan ali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/leadermalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leadermalang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leadermalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leadermalang" height="30" width="40" /></a>
 </p>
