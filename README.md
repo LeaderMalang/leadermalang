@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/leadermalang" target="blank"><img src="https://img.shields.io/twitter/follow/leadermalang?logo=twitter&style=for-the-badge" alt="leadermalang" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/LeaderMalang/qot](https://github.com/LeaderMalang/Automated-On-Chain-Trading-Solana)
+- 🔭 I’m currently working on [Migrate Token 2021 to Token 2022 Extension of Anchor 0.30.1](https://github.com/LeaderMalang/anchor-token-2022)
 
 - 🌱 I’m currently learning **langchain and tensorflow**
 
