@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/leadermalang" target="blank"><img src="https://img.shields.io/twitter/follow/leadermalang?logo=twitter&style=for-the-badge" alt="leadermalang" /></a> </p>
 
-- 🔭 I’m currently working on [Ripple Token Creator](https://github.com/LeaderMalang/ripple-token-creator)
+- 🔭 I’m currently working on [AI ENGINE  Simulation App](https://github.com/LeaderMalang/ai_engine)
 
 - 🌱 I’m currently learning **langchain and tensorflow**
 
-- 👯 I’m looking to collaborate on [Personality ChatBot Using LLaMA model](https://github.com/LeaderMalang/personality-chatbot-gardio)
+- 👯 I’m looking to collaborate on [MEXC Trading Bot](https://github.com/LeaderMalang/mexc_bot)
 
-- 🤝 I’m looking for help with [Read Academic (OCR App that reads academic documents of Pakistan)](https://github.com/LeaderMalang/read-academic)
+- 🤝 I’m looking for help with [LPE DEX/DAO/P2P Arbitrum](https://github.com/LeaderMalang/lpe-coin-arbitrum)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeaderMalang](https://github.com/LeaderMalang)
 
